@@ -1,0 +1,9 @@
+RO TRAINING – GUIDA RAPIDA
+
+1. Apri index.html con un browser moderno (oppure usa un server statico locale).
+2. Per gli appelli mantieni accanto le cartelle pdf/ e materiali/.
+3. Per le correzioni aperte usa «Correggi con AI» dopo aver configurato il backend; in alternativa copia la richiesta e inviala a ChatGPT.
+4. I progressi sono locali nel browser: ogni persona ha i propri dati. Usa Esporta progressi per fare un backup.
+5. Per pubblicare il frontend leggi PUBBLICAZIONE.md.
+6. Per il backend AI consulta backend/README.md.
+7. Prima di pubblicare, verifica i diritti di redistribuzione dei PDF e dei materiali inclusi.
